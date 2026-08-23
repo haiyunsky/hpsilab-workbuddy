@@ -6,6 +6,16 @@ Use HPSILab's 9 public Quant Tools from WorkBuddy for stock research, options an
 
 This repository contains only the open-source WorkBuddy integration and distribution files. HPSILab's backend and quantitative algorithms are not included.
 
+## Release status
+
+- `PUBLIC GITHUB READY: YES`
+- `WORKBUDDY SPEC COMPATIBLE: YES`
+- `MARKETPLACE STRUCTURE: PASS`
+- `WORKBUDDY E2E VERIFIED: NO`
+- `E2E BLOCKED: Enterprise login required`
+
+The plugin manifest, Marketplace structure, MCP configuration, and Skill packaging have been validated. Full WorkBuddy runtime E2E testing remains pending until an enterprise login environment is available; this repository does not claim that the WorkBuddy E2E flow has already passed.
+
 ## Install
 
 Installation is two commands inside WorkBuddy:
