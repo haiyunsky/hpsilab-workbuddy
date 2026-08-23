@@ -1,0 +1,17 @@
+{
+  "name": "hpsilab",
+  "owner": {
+    "name": "HPSILab"
+  },
+  "description": "Official HPSILab integrations for WorkBuddy.",
+  "plugins": [
+    {
+      "name": "hpsilab-workbuddy",
+      "source": {
+        "source": "github",
+        "repo": "haiyunsky/hpsilab-workbuddy"
+      },
+      "description": "Professional quant finance tools for AI agents."
+    }
+  ]
+}
