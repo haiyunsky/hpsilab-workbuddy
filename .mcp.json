@@ -2,10 +2,7 @@
   "mcpServers": {
     "hpsilab": {
       "type": "http",
-      "url": "https://hpsilab.com/mcp",
-      "headers": {
-        "Authorization": "Bearer ${HPSILAB_API_TOKEN:-}"
-      }
+      "url": "https://hpsilab.com/mcp"
     }
   }
 }
